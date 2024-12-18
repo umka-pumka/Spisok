@@ -1,0 +1,22 @@
+    .btn {
+        padding: 5px 10px;
+        font-size: 18px;
+        border: none;
+        border-radius: 5px;
+        color: #fff;
+        margin-left: 10px;
+        &:hover {
+            scale: 1.1;
+        }
+    }
+
+    .add {
+        background: rgb(11, 205, 222);
+
+    }
+
+    .del {
+        background: rgb(27, 12, 12);
+
+    }
+  
